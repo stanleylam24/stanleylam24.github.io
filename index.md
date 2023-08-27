@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/pdf/Disney Movies.pdf)
+[Project 1 Title](/pdf/Disney_Movies.pdf)
 <img src="images/Power Bi Thumbnail.png?raw=true"/>
 
 ---

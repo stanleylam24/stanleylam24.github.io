@@ -9,7 +9,7 @@
 
 ---
 [LA Crime EDA in Tableau](https://public.tableau.com/app/profile/stanley.lam7652/viz/LACrimeEDA/Sheet4?publish=yes)
-<img src="images/Tableau_Thumbnail.jpg?raw=true"/>
+<img src="images/Tableau_Thumbnail.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)

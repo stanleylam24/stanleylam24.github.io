@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Using Power BI to Make Reports](/pdf/Disney_Movies.pdf)
 <img src="images/Power_Bi_Thumbnail.png?raw=true"/>

@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Using Power BI to Make Reports](/pdf/Disney_Movies.pdf)
+[Disney Movies Over the Years in Power BI](/pdf/Disney_Movies.pdf)
 <img src="images/Power_Bi_Thumbnail.png?raw=true"/>
 
 ---

@@ -13,4 +13,4 @@
 
 ---
 [Disneyland Reviews Sentiment Analysis](https://www.kaggle.com/stanleylam24/disneyland-reviews-sentiment-analysis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Disneyland_NLP_Thumbail.png?raw=true"/>

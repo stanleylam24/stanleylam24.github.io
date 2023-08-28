@@ -18,4 +18,4 @@
 
 ---
 [LendingClub Predicting Approval of Loan Using PySpark](/pdf/LendingClub_Approval_of_Loan Using_PySpark.pdf)
-<img src="images/LendingClub_Thumbail.png?raw=true"/>
+<img src="images/LendingClub_Thumbnail.png?raw=true"/>

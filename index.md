@@ -14,3 +14,8 @@
 ---
 [Disneyland Reviews Sentiment Analysis](https://www.kaggle.com/stanleylam24/disneyland-reviews-sentiment-analysis)
 <img src="images/Disneyland_NLP_Thumbail.png?raw=true"/>
+
+
+---
+[LendingClub Predicting Approval of Loan Using PySpark](/pdf/LendingClub Approval of Loan Using PySpark.pdf)
+<img src="images/LendingClub_Thumbail.png?raw=true"/>

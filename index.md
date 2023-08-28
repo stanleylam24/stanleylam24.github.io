@@ -12,5 +12,5 @@
 <img src="images/Tableau_Thumbnail.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Disneyland Reviews Sentiment Analysis](https://www.kaggle.com/stanleylam24/disneyland-reviews-sentiment-analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>

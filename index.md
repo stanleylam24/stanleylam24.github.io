@@ -17,5 +17,5 @@
 
 
 ---
-[LendingClub Predicting Approval of Loan Using PySpark](/pdf/LendingClub Approval of Loan Using PySpark.pdf)
+[LendingClub Predicting Approval of Loan Using PySpark](/pdf/'LendingClub Approval of Loan Using PySpark.pdf')
 <img src="images/LendingClub_Thumbail.png?raw=true"/>

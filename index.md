@@ -21,4 +21,4 @@
 <img src="images/LendingClub_Thumbnail.png?raw=true"/>
 
 [Doordash Predicting Delivery Times](/pdf/Delivery_Time_Prediction.pdf)
-<img src="images/LendingClub_Thumbnail.png?raw=true"/>
+<img src="images/DD.png?raw=true"/>

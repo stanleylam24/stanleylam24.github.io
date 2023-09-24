@@ -3,10 +3,6 @@
 ---
 
 ## Projects
-
-[Disney Movies Over the Years in Power BI](/pdf/Disney_Movies.pdf)
-<img src="images/Power_Bi_Thumbnail.png?raw=true"/>
-
 ---
 [LA Crime EDA in Tableau](https://public.tableau.com/app/profile/stanley.lam7652/viz/LACrimeEDA/Sheet4?publish=yes)
 <img src="images/Tableau_Thumbnail.png?raw=true"/>

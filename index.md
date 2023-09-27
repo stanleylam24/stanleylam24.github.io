@@ -4,7 +4,7 @@
 
 ## Projects
 
-[Pizza Sales in MSSQL](/pdf/Pizza_Sales.pdf)
+[Pizza Sales in MSSQL and PowerBI](/pdf/Pizza_Sales.pdf)
 <img src="images/Pizza_Sales.png?raw=true"/>
 
 ---

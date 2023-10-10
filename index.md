@@ -12,7 +12,7 @@
 <img src="images/Tableau_Thumbnail.png?raw=true"/>
 
 ---
-[Disneyland Reviews Sentiment Analysis](/pdf/disneyland-reviews-sentiment-analysis.html)
+[Disneyland Reviews Sentiment Analysis](/pdf/disneyland-reviews-sentiment-analysis.pdf)
 <img src="images/Disneyland_NLP_Thumbail.png?raw=true"/>
 ---
 [Wildfire Spot Prediction](/pdf/Wildfire_Forecasting_in_Australia_by_IBM.pdf)

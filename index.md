@@ -12,7 +12,7 @@
 <img src="images/Pizza_Sales.png?raw=true"/>
 
 ---
-[San Franciso Crime Dashboard](https://public.tableau.com/app/profile/stanley.lam7652/viz/LACrimeEDA/Sheet4?publish=yes)
+[San Franciso Crime Dashboard]([https://public.tableau.com/app/profile/stanley.lam7652/viz/LACrimeEDA/Sheet4?publish=yes](https://public.tableau.com/views/SFCrime_16974829950790/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link))
 <img src="images/Tableau_Thumbnail.png?raw=true"/>
 
 

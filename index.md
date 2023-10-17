@@ -8,7 +8,7 @@
 <img src="images/Disney_TN.png?raw=true"/>
 
 ---
-[Pizza Sales in MSSQL and PowerBI](/pdf/Pizza_Sales.pdf)
+[Pizza Sales Analysis in MSSQL and PowerBI](/pdf/Pizza_Sales.pdf)
 <img src="images/ps_tb.png?raw=true"/>
 
 ---

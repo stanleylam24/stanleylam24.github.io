@@ -13,7 +13,7 @@
 
 ---
 [San Franciso Crime Dashboard](https://public.tableau.com/views/SFCrime_16974829950790/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-<img src="images/Tableau_Thumbnail.png?raw=true"/>
+<img src="images/sf_tb.png?raw=true"/>
 
 
 ---

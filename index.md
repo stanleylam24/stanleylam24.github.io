@@ -9,7 +9,7 @@
 
 ---
 [Pizza Sales in MSSQL and PowerBI](/pdf/Pizza_Sales.pdf)
-<img src="images/Pizza_Sales.png?raw=true"/>
+<img src="images/ps_tb.png?raw=true"/>
 
 ---
 [San Franciso Crime Dashboard](https://public.tableau.com/views/SFCrime_16974829950790/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)

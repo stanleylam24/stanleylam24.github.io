@@ -17,7 +17,7 @@
 
 
 ---
-[Wildfire Spot Prediction](/pdf/Wildfire_Forecasting_in_Australia_by_IBM.pdf)
+[Austrailia Wildfires Spot Prediction](/pdf/Wildfire_Forecasting_in_Australia_by_IBM.pdf)
 <img src="images/wildfire.jpg?raw=true"/>
 
 ---

@@ -1,10 +1,9 @@
 title: Stanley Lam # your name (or website title) here
 logo: "/images/download (3).jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Aspiring data analyst with a solid command of a wide range of analytical tools and techniques. 
+  Aspiring business/data analyst with a wide range of analytical tools and techniques. 
   <br><br>
-   Proficient in Python (pandas, numpy, matplotlib, seaborn) for complex data analysis and visualization, Tableau and Power BI (including DAX and report creation) for insightful data presentations, RStudio (ggplot2, dplyr) for statistical analysis, and SQL for efficient querying. Skilled in PySpark for big data processing and Excel (Solver, Goal Seek, Pivot Tables, Vlookup, Conditional Formatting) for data manipulation and modeling.
-  <br><br>
+   A data-driven Senior Operations Specialist with expertise in Python, SQL, Excel, and data visualization tools like Tableau and Power BI. At OPPO, I optimized operations, reduced expenses, and improved asset management. My educational background includes a Master's in Business Analytics, and I'm passionate about data analytics and visualization. Let's connect to discuss data-driven insights and potential collaborations.
   <a href="https://www.linkedin.com/in/stanleylam24/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0

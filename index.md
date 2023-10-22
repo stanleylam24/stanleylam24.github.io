@@ -8,13 +8,16 @@
 <img src="images/Disney_TN.png?raw=true"/>
 
 ---
-[Pizza Sales Analysis in MSSQL and PowerBI](/pdf/Pizza_Sales.pdf)
-<img src="images/ps_tb.png?raw=true"/>
+[Disneyland Reviews Dashboard](https://public.tableau.com/app/profile/stanley.lam7652/viz/DisneylandReviewsDashboard/Story1)
+<img src="images/disneyland_reviews_dashboard_tb.png?raw=true"/>
 
 ---
 [San Franciso Crime Dashboard](https://public.tableau.com/views/SFCrime_16974829950790/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 <img src="images/sf_tb.png?raw=true"/>
 
+---
+[Pizza Sales Analysis in MSSQL and PowerBI](/pdf/Pizza_Sales.pdf)
+<img src="images/ps_tb.png?raw=true"/>
 
 ---
 [Austrailia Wildfires Spot Prediction](/pdf/Wildfire_Forecasting_in_Australia_by_IBM.pdf)
